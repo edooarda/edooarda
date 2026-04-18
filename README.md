@@ -1,37 +1,33 @@
-<!-- ![banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9MzIeh-VbJrOEi8Np6k69JpwekL1xJ6a16ftzmkHzQveBGDJ7JAg2mmNZk_jJkg-pPxtcF2zx73EYIDIsgX9iPoJOZkXO_jaw2VomkumeG6e695NMq334PFVF7NPj2TxD-ekoEeYTy0egjqBzH51NFMQNc5LQVSuVuxkrh9NDp3SQPSumN7PzqlaweXk/s1000/usagi_banner_1000.jpg) -->
+<!-- ![banner]() -->
 
-```python
-  print("Hello World!\n")
-  print("🖖\n")
+<div align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4peSvnZtrO2gE7drcqPkIk_APLyQLXO2w-6uXImBgzlwu4hlcnnWaTVH10XDMoWFlS0t-e7h3zz_Nn_A9-Okrzktm2Gy0VdbzOWs9-P74ijJE8ZRm863eGRwHVYr7Q7LxiDismlUWzuEA2GXZtZ2wWTQhry8TkNLV6Q09v72qM_oYghAxO5HZ4bdGcZI/s320/vasqtd-stamp.png" alt="drawing" width="100"/>
+</div>
+
+
+```C
+  printf("HELLO WORLD!");
+  while(here)
+  {
+    printf("Welcome!");
+  }
 ```
 
-- I am <ins>Eduarda</ins>, a **Software Engineer** with sparks of an **Artisan** ✨
-- This is my learning space, where I embrace **learning in public**. You'll find ongoing projects, experiments with new languages, 42school assignments and more. 🚀
+- 🖖🏻 Hi, I am _Eduarda_, a **Software Engineer** with sparks and heart of an **Artisan** 
+- 👾 You are at my **learning code space** 
+- 🧶 My **artistic and crafts learning** can be found on the link below
 
-```python
-  if you_want_to_contact_me:
-    print("👇 Below are links where you can find me 🔍")  
-  else:
-     print("Welcome! Feel free to explore 🐇")  
-
-```
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edooarda/" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Linkedin-purple?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=grey" alt="Linkedin" /></a>
-  <a href="mailto:edooarda@gmail.com" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Gmail-purple?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-  <a href="https://ko-fi.com/vasquetundum" target="_blank" rel="external"><img src="https://img.shields.io/badge/Support_my_crafts-purple?style=for-the-badge&logo=Kofi&logoColor=white" alt="Support my crafts"></a>
+  <a href="https://www.linkedin.com/in/edooarda/" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Linkedin-277e62?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=grey" alt="Linkedin" /></a>
+  <a href="https://ko-fi.com/vasquetundum" target="_blank" rel="external"><img src="https://img.shields.io/badge/Crafts-277e62?style=for-the-badge&logo=Kofi&logoColor=white" alt="Crafts"></a>
 
-  <!-- <a href="https://vasquetundum.tumblr.com/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Creative_Studio-pink?style=for-the-badge&logo=tumblr&logoColor=grey" alt="Creative Studio"></a>
-  <a href="https://www.instagram.com/fotografadecaracol/" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Photography-pink?style=for-the-badge&logo=instagram&logoColor=grey" alt="Photography"></a> -->
 </div>
 
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edooarda&layout=compact&theme=material-palenight)
-
 
 
 <!--
