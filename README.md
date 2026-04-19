@@ -14,15 +14,16 @@
 ```
 
 - 🖖🏻 Hi, I am _Eduarda_, a **Software Engineer** with sparks and heart of an **Artisan** 
-- 👾 You are at my **learning code space** 
-- 🧶 My **artistic and crafts learning** can be found on the link below
+- 👾 You are at my **Learning Code Space** 
+- 🧶 My studio, _VASQUETUNDUM_, is home to my **Art & Crafts**
 
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edooarda/" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Linkedin-277e62?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=grey" alt="Linkedin" /></a>
-  <a href="https://ko-fi.com/vasquetundum" target="_blank" rel="external"><img src="https://img.shields.io/badge/Crafts-277e62?style=for-the-badge&logo=Kofi&logoColor=white" alt="Crafts"></a>
+  <a href="http://edooarda.github.io/"><img src="https://img.shields.io/badge/my_page-yellow?style=for-the-badge&logo=github" alt="my page"></a>
+  <!-- <a href="https://www.linkedin.com/in/edooarda/" target="_blank" rel="external" ><img src="https://img.shields.io/badge/Linkedin-277e62?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=grey" alt="Linkedin" /></a>
+  <a href="https://ko-fi.com/vasquetundum" target="_blank" rel="external"><img src="https://img.shields.io/badge/Crafts-277e62?style=for-the-badge&logo=Kofi&logoColor=white" alt="Crafts"></a> -->
 
 </div>
 
